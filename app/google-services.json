@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "140010344137",
+    "project_id": "desafio-bcp-1667b",
+    "storage_bucket": "desafio-bcp-1667b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140010344137:android:a02c1cd656c78bf778c718",
+        "android_client_info": {
+          "package_name": "com.devansoft.desafiobcp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140010344137-48hej1btjt6gd529l1dc4jqe20eduopk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.devansoft.desafiobcp",
+            "certificate_hash": "9672fa68b1c1c1dd7d836388f9d4cfd23c012bc6"
+          }
+        },
+        {
+          "client_id": "140010344137-d5n1k6govjbjj6hom5r9f03bd1or8ft3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5vJbmva8a3keTHxUrMFK0xrjg4-VpjeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140010344137-d5n1k6govjbjj6hom5r9f03bd1or8ft3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
